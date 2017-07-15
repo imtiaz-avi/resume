@@ -4,7 +4,10 @@ body {
     font-family: Helvetica;
     font-size: 10%;
 }
-
+br{
+    margin: 0px;
+    padding: 0px;
+}
 div{
     margin: 0px;
     padding: 0px;

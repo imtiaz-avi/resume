@@ -1,0 +1,132 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica;
+    font-size: 10%;
+}
+
+h1{
+    padding-top: 15px;
+}
+.head {
+    background: #c5c5c5 none repeat scroll 0 0;
+    border-bottom: 2px solid orange;
+    padding-top: 5px;
+    overflow: hidden;
+}
+.image {
+    border-radius: 10%;
+    width: 100px;
+    padding-bottom: 17px;
+}
+img .image {
+   
+}
+.name {
+    float: left;
+}
+.name h1 {
+    margin: 0;
+    text-transform: uppercase;
+}
+.name h3 {
+    margin-top: 0;
+}
+.contact {
+    text-align: right;
+}
+.contact ul li {
+    list-style: outside none none;
+    padding: -5px;
+}
+.information {
+    border-bottom: 1px solid #c7c1c1;
+    overflow: hidden;
+    padding: 20px 15px;
+}
+.heading {
+    float: left;
+    text-transform: uppercase;
+    font-size: 10px;
+    margin: 0px;
+}
+.heading h2 {
+    color: #ffa500;
+    margin: 0px;
+    padding: 0px;
+}
+.details {
+    float: right;
+    width: 80%;
+}
+.details p {
+    margin: 0;
+    padding-bottom: 12px;
+    text-align: justify;
+}
+.details h3 {
+    margin: 0;
+}
+.details h5 {
+    margin: 0;
+}
+.details li {
+}
+.details_list {
+    float: right;
+    list-style: outside none none;
+    width: 80%;
+}
+.details_list h3 {
+    margin: 0;
+}
+.details_list h5 {
+    margin: 0;
+}
+.details_list p {
+}
+.details ul {
+    margin-top: 0;
+    padding: 0 15px;
+}
+.details ul li {
+}
+.col {
+    column-count: 3;
+    float: right;
+    list-style: outside none none;
+    width: 80%;
+}
+.col li {
+}
+.footer {
+    background-color: #2b2525;
+    overflow: hidden;
+    padding: 15px 20px 5px;
+}
+.footer .name {}
+.footer h1 {
+    color: #fff;
+}
+.footer h3 {
+    color: #fff;
+}
+.footer p {
+    color: #fff;
+    padding-bottom: 27px;
+}
+.footer .contact {
+}
+.footer .contact ul {
+}
+.footer .contact ul li {
+    color: #fff;
+}
+.hr {
+    background: orange none repeat scroll 0 0;
+    float: left;
+    height: 3px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}

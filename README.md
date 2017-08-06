@@ -1,2 +1,2 @@
-# resume-with-bootstrap
-responsive one page resume with bootstrap
+# resume
+one page resume
